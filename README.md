@@ -21,11 +21,6 @@ cd Web-Scraping-Using-Python
 ```bash
 pip install requests beautifulsoup4 requests-html 
 ```
-
-3. Install Playwright browsers (for Crawl4AI):
-```bash
-playwright install
-```
 ## Key Features Learned
 
 1. **HTTP Requests** - Fetching web pages
